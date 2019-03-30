@@ -1,0 +1,116 @@
+{"Entries":[
+{
+"OrganizationName":"Altru Health System",
+"FHIRPatientFacingURI":"https://epicsoap.altru.org/fhir/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"56535"},{"Kind":"Zip","Value":"56540"},{"Kind":"Zip","Value":"56716"},{"Kind":"Zip","Value":"56721"},{"Kind":"Zip","Value":"58201"},{"Kind":"Zip","Value":"58225"},{"Kind":"Zip","Value":"58301"},{"Kind":"Keyword","Value":"Altru"},{"Kind":"Keyword","Value":"Health"},{"Kind":"State","Value":"Minnesota"},{"Kind":"State","Value":"MN"},{"Kind":"State","Value":"ND"},{"Kind":"State","Value":"North Dakota"},{"Kind":"Keyword","Value":"System"}]
+}
+,{
+"OrganizationName":"Bellin Health",
+"FHIRPatientFacingURI":"https://arr.thedacare.org/BLN/FHIR/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"54305"},{"Kind":"Keyword","Value":"Bellin"},{"Kind":"Keyword","Value":"Health"},{"Kind":"State","Value":"WI"},{"Kind":"State","Value":"Wisconsin"}]
+}
+,{
+"OrganizationName":"Carle Foundation Hospital",
+"FHIRPatientFacingURI":"https://epicsoap.carle.com/FHIR/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"61801"},{"Kind":"Keyword","Value":"Carle"},{"Kind":"Keyword","Value":"Foundation"},{"Kind":"Keyword","Value":"Hospital"},{"Kind":"State","Value":"IL"},{"Kind":"State","Value":"Illinois"}]
+}
+,{
+"OrganizationName":"Cedars-Sinai",
+"FHIRPatientFacingURI":"https://cslinkmobile.csmc.edu/fhirproxy/api/FHIR/DSTU2",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"90048"},{"Kind":"State","Value":"CA"},{"Kind":"State","Value":"California"},{"Kind":"Keyword","Value":"Cedars-Sinai"}]
+}
+,{
+"OrganizationName":"Hattiesburg Clinic and Forrest General Hospital",
+"FHIRPatientFacingURI":"https://soapprod.hattiesburgclinic.com/FHIR/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"39401"},{"Kind":"Keyword","Value":"and"},{"Kind":"Keyword","Value":"Clinic"},{"Kind":"Keyword","Value":"Forrest"},{"Kind":"Keyword","Value":"General"},{"Kind":"Keyword","Value":"Hattiesburg"},{"Kind":"Keyword","Value":"Hospital"},{"Kind":"State","Value":"MS"}]
+}
+,{
+"OrganizationName":"Hospital for Special Surgery",
+"FHIRPatientFacingURI":"https://epicproxy.et0927.epichosted.com/FHIRProxy/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"10021"},{"Kind":"Keyword","Value":"for"},{"Kind":"Keyword","Value":"Hospital"},{"Kind":"State","Value":"NY"},{"Kind":"Keyword","Value":"Special"},{"Kind":"Keyword","Value":"Surgery"}]
+}
+,{
+"OrganizationName":"Hospital for Special Surgery Test",
+"FHIRPatientFacingURI":"https://epicproxy-np.et0927.epichosted.com/FHIRProxy/api/FHIR/DSTU2",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"10021"},{"Kind":"Keyword","Value":"for"},{"Kind":"Keyword","Value":"Hospital"},{"Kind":"State","Value":"NY"},{"Kind":"Keyword","Value":"Special"},{"Kind":"Keyword","Value":"Surgery"},{"Kind":"Keyword","Value":"Test"}]
+}
+,{
+"OrganizationName":"Martin Health System",
+"FHIRPatientFacingURI":"https://prodrx919.martinhealth.org/FHIR-PRD/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"34994"},{"Kind":"State","Value":"FL"},{"Kind":"Keyword","Value":"Health"},{"Kind":"Keyword","Value":"Martin"},{"Kind":"Keyword","Value":"System"}]
+}
+,{
+"OrganizationName":"Nebraska Medicine",
+"FHIRPatientFacingURI":"https://ocsoapprd.nebraskamed.com/FHIR-PRD/api/FHIR/DSTU2",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"68105"},{"Kind":"Keyword","Value":"Medicine"},{"Kind":"State","Value":"NE"},{"Kind":"Keyword","Value":"Nebraska"}]
+}
+,{
+"OrganizationName":"Norton Healthcare",
+"FHIRPatientFacingURI":"https://epicsoap.nortonhealthcare.org/FHIRPRD/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"40202"},{"Kind":"Zip","Value":"40207"},{"Kind":"Zip","Value":"40217"},{"Kind":"Zip","Value":"40241"},{"Kind":"Keyword","Value":"Healthcare"},{"Kind":"State","Value":"Kentucky"},{"Kind":"State","Value":"KY"},{"Kind":"Keyword","Value":"Louisville"},{"Kind":"Keyword","Value":"Norton"}]
+}
+,{
+"OrganizationName":"Ochsner Health System",
+"FHIRPatientFacingURI":"https://ocsoapprd.nebraskamed.com/FHIR-PRD/api/FHIR/DSTU2",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"70221"},{"Kind":"Keyword","Value":"Health"},{"Kind":"State","Value":"LA"},{"Kind":"State","Value":"Louisiana"},{"Kind":"State","Value":"Mississippi"},{"Kind":"State","Value":"MS"},{"Kind":"Keyword","Value":"Ochsner"},{"Kind":"Keyword","Value":"System"}]
+}
+,{
+"OrganizationName":"Sansum Clinic",
+"FHIRPatientFacingURI":"https://wavesurescripts.sansumclinic.org/FHIR/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"93102"},{"Kind":"State","Value":"CA"},{"Kind":"State","Value":"California"},{"Kind":"Keyword","Value":"Clinic"},{"Kind":"Keyword","Value":"Sansum"}]
+}
+,{
+"OrganizationName":"SSM Health",
+"FHIRPatientFacingURI":"https://fhir.ssmhc.com/fhir/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"53713"},{"Kind":"Keyword","Value":"Health"},{"Kind":"Keyword","Value":"SSM"},{"Kind":"State","Value":"WI"},{"Kind":"State","Value":"Wisconsin"}]
+}
+,{
+"OrganizationName":"SSM Health - Dean Medical Group",
+"FHIRPatientFacingURI":"https://deanrx.deancare.com/fhir/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Keyword","Value":"-"},{"Kind":"Zip","Value":"53713"},{"Kind":"Keyword","Value":"Dean"},{"Kind":"Keyword","Value":"Group"},{"Kind":"Keyword","Value":"Health"},{"Kind":"Keyword","Value":"Medical"},{"Kind":"Keyword","Value":"SSM"},{"Kind":"State","Value":"WI"},{"Kind":"State","Value":"Wisconsin"}]
+}
+,{
+"OrganizationName":"TedaCare",
+"FHIRPatientFacingURI":"https://arr.thedacare.org/TC/FHIR/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"54911"},{"Kind":"Keyword","Value":"TedaCare"},{"Kind":"State","Value":"WI"},{"Kind":"State","Value":"Wisconsin"}]
+}
+,{
+"OrganizationName":"ThedaCare",
+"FHIRPatientFacingURI":"https://arr.thedacare.org/TC/FHIR/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"54911"},{"Kind":"Keyword","Value":"ThedaCare"},{"Kind":"State","Value":"WI"},{"Kind":"State","Value":"Wisconsin"}]
+}
+,{
+"OrganizationName":"UF Health",
+"FHIRPatientFacingURI":"https://epicsoap.shands.ufl.edu/FHIR/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"State","Value":"FL"},{"Kind":"State","Value":"Florida"},{"Kind":"Keyword","Value":"Health"},{"Kind":"Keyword","Value":"UF"}]
+}
+,{
+"OrganizationName":"UW Health And Affiliates",
+"FHIRPatientFacingURI":"https://epicproxy.hosp.wisc.edu/FhirProxy/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Keyword","Value":"Affiliates"},{"Kind":"Keyword","Value":"And"},{"Kind":"Keyword","Value":"Health"},{"Kind":"Keyword","Value":"UW"},{"Kind":"State","Value":"WI"},{"Kind":"State","Value":"Wisconsin"}]
+}
+,{
+"OrganizationName":"Weill Cornell Medicine",
+"FHIRPatientFacingURI":"https://epicmobile.med.cornell.edu/FHIR/api/FHIR/DSTU2/",
+"Type":"Epic",
+"Keywords":[{"Kind":"Zip","Value":"10065"},{"Kind":"Keyword","Value":"Cornell"},{"Kind":"Keyword","Value":"Medicine"},{"Kind":"State","Value":"New York"},{"Kind":"State","Value":"NY"},{"Kind":"Keyword","Value":"Weill"}]
+}
+]}
